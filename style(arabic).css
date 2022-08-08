@@ -1,0 +1,167 @@
+#ENGLISH_Version{
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    float: right;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+#watches_link{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+#watches_link:hover{
+    text-decoration: none;
+    color: red;
+    background-color: green;
+    
+}
+#smart_watches_link{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+#smart_watches_link:hover{
+    text-decoration: none;
+    color: red;
+    background-color: blue;
+}
+#home{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+#home:hover{
+background-color: red;
+color: green;
+}
+#APPLE_WATCH_REVIEW{
+    padding-bottom: 18px;
+}
+#Apple_Watch_Review_Link{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+#Apple_Watch7{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+#Apple_Watch7:hover{
+    background-color: blue;
+    color: black;
+}
+#Apple_watch7_features{
+    color: white;
+}
+#more_information_about_apple_watch7{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    background-color: blue;
+}
+#apple_watch_image{
+padding-bottom: 60px;
+padding-top: 60px;
+}
+#Air_King{
+    line-height: 100px;
+}
+#Air_King_Watch{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+#Air_King_Watch:hover{
+    background-color: blue;
+    color: black;
+}
+#about_Air_King{
+    color: white;
+}
+#more_information_about_Air_King{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    background-color: blue;
+}
+#Huwaei_Watch_GT_Runner{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+#Huwaei_Watch_GT_Runner:hover{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 40px;
+    background-color: blue;
+}
+#sperate{
+    line-height: 100px;
+}
+#more_information_about_Huawei_Watch_GT_Runner{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    background-color: blue;
+}
+#Watches{
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#R_watches{
+padding-bottom: 100px;
+color: white;
+}
+#Wrist_Watches2{
+    padding-bottom: 50px;
+}
+#To_Top{
+    text-align: center;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+#name{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
+#MADE_BY{
+    color: blue;
+    text-align: center;
+}
+#Information_about_the_designer{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
